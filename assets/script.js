@@ -1,5 +1,3 @@
-//this is our current api key that will allow us to retrive the info from our API
-var apiKey = "90e017b27566304547bf7d5543eef480"; 
 var newName = document.getElementById("cityInput"); 
 var searchBtn = document.getElementById("searchBtn");
 
