@@ -35,6 +35,8 @@ https://chemaking13.github.io/Weather-Dashboard/
 
 <h2>Preview</h2
 
-<img width="1402" alt="Screenshot 2023-04-24 at 14 28 50" src="https://user-images.githubusercontent.com/124849302/234109558-575fbeb1-6d43-4265-94e2-64a9947447cb.png">
+
+<img width="1424" alt="Screenshot 2023-04-24 at 17 45 42" src="https://user-images.githubusercontent.com/124849302/234138862-1850d99d-5ebd-42d4-994a-0d273c7492ee.png">
+
 
 
