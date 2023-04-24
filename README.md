@@ -4,10 +4,10 @@
 
 This Weather Dashboard retieves data from https://openweathermap.org/api for the next 5 days, with the parameters: 
 
--Date
--Temperature
--Wind
--Humedity 
+- Date
+- Temperature
+- Wind speed
+- Humedity
 
 That will allow users to know consult information about the climate of the city that they need. Which can be very useful for users who are planning a trip or who just want to anticipate the weather conditions.
 
