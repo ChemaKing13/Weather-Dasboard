@@ -28,5 +28,5 @@ Special mention for: https://openweathermap.org/api for letting us their informa
 
 <h2>Preview</h2
 
-<img width="1402" alt="Screenshot 2023-04-24 at 14 20 08" src="https://user-images.githubusercontent.com/124849302/234107953-d323f8f2-2984-45c2-8cc5-c68151bb1761.png">
+<img width="1402" alt="Screenshot 2023-04-24 at 14 20 08" src="https://user-images.githubusercontent.com/124849302/234108098-edb85702-17bf-4963-a441-caae8c2b456a.png">
 
