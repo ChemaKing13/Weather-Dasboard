@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-This Weather Dashboard retieves data from https://openweathermap.org/api for the next 5 days, with te parameters: 
+This Weather Dashboard retieves data from https://openweathermap.org/api for the next 5 days, with the parameters: 
 
 -Date
 -Temperature
