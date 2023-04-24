@@ -26,7 +26,7 @@ That will allow users to know consult information about the climate of the city 
 
 <h2>Credits</h2>
 In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources on the Internet, such as articles and videos. 
-Special mention for: https://openweathermap.org/api for letting me their information. 
+Special mention for: https://openweathermap.org/api for letting me acces to their data. 
 
 
 <h2>Live URL</h2>
