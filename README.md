@@ -1,5 +1,9 @@
 # Weather-Dashboard
 
+ Important! 
+ 
+ This ptoyect is still in progress, it will be finished soon. 
+
 <h2>Description</h2>
 
 This Weather Dashboard retieves data from https://openweathermap.org/api for the next 5 days, with the parameters: 
@@ -23,6 +27,7 @@ That will allow users to know consult information about the climate of the city 
 <h2>Credits</h2>
 In order to complete this challenge, I applied the knowledge seen in class, as well as additional resources on the Internet, such as articles and videos. 
 Special mention for: https://openweathermap.org/api for letting me their information. 
+
 
 <h2>Live URL</h2>
 
