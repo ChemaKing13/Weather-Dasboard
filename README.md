@@ -24,6 +24,9 @@ In order to complete this challenge, I applied the knowledge seen in class, as w
 Special mention for: https://openweathermap.org/api for letting us their information. 
 
 <h2>Live URL</h2>
-https://chemaking13.github.io/1.Upgraded-Webpage/
 
-<h2>Preview</h2>
+
+<h2>Preview</h2
+
+<img width="1402" alt="Screenshot 2023-04-24 at 14 20 08" src="https://user-images.githubusercontent.com/124849302/234107953-d323f8f2-2984-45c2-8cc5-c68151bb1761.png">
+
