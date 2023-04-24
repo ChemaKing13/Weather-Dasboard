@@ -2,7 +2,7 @@
 
  Important! 
  
- This ptoyect is still in progress, it will be finished soon. 
+ This proyect is still in progress, it will be finished soon. 
 
 <h2>Description</h2>
 
