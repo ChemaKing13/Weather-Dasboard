@@ -16,7 +16,8 @@ That will allow users to know consult information about the climate of the city 
 
 - HTML
 - CSS
--JavaScript
+- JavaScript
+
 
 
 <h2>Credits</h2>
