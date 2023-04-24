@@ -31,6 +31,7 @@ Special mention for: https://openweathermap.org/api for letting me their informa
 
 <h2>Live URL</h2>
 
+https://chemaking13.github.io/Weather-Dashboard/
 
 <h2>Preview</h2
 
